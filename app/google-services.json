@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "644876380375",
+    "firebase_url": "https://poupar-tcc-788b7.firebaseio.com",
+    "project_id": "poupar-tcc-788b7",
+    "storage_bucket": "poupar-tcc-788b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644876380375:android:dd586c863d1978157d6892",
+        "android_client_info": {
+          "package_name": "com.example.poupar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644876380375-4qbf23fb15g5gkre7hpr57973jfaqgdl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZMwyqyXLlldjBQMFworQeLKUaLzkfgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644876380375-4qbf23fb15g5gkre7hpr57973jfaqgdl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
